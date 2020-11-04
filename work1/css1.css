@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+    background-color: gray;
+    padding: 50px;
+    margin: 0;
+    color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+button {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}

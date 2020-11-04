@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/neon-lights-wallpaper_52683-46462.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    background-size: 1920px;
+}
+
+#l1 {
+    padding: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: lightgreen;
+}
+
+#l2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: lightgreen;
+}
+
+#im {
+    max-width: 100px;
+    height: auto;
+}
+
+#l3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: lightgreen;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 200px;
+}
